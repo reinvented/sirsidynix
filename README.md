@@ -1,0 +1,1 @@
+See [Automating SirsiDynix Patron Login](http://hacker.vre.upei.ca/automating-sirsidynix-patron-login) for details about what this code does and how it works.
